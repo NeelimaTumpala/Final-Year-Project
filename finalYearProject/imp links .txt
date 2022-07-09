@@ -1,0 +1,13 @@
+wiki :
+https://en.wikipedia.org/wiki/Autonomous_robot#Components_and_criteria_of_robotic_autonomy
+
+file:///C:/Users/NTUMPALA/Downloads/Literaturesurveyforautonomousvehiclessensorfusioncomputervisionsystem.pdf
+
+details of arduino:
+https://www.elektor.com/arduino-uno-wifi-rev2
+
+History of autonamous robot
+https://www.roboticsacademy.com.au/history-of-robots/#:~:text=The%20first%20electronic%20autonomous%20robots,was%20ultimately%20called%20the%20Unimate.
+
+web cam
+https://en.wikipedia.org/wiki/Webcam
